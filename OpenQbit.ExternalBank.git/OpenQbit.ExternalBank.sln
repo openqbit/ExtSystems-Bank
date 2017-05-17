@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Common", "0 Common", "{5447B3A6-8078-429C-B7C4-97466699BF89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{BD80612B-7C53-4F2F-961B-BA93FFD24B82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Service", "2 Service", "{4B8AB7A1-7005-45BF-BFAB-1E6A7B31E7E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 BLL", "3 BLL", "{280FA177-DB04-4ACE-9866-366284F95AE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 DAL", "4 DAL", "{6F8DC2B6-7774-4CBB-BE7F-8F9DF2957437}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Test", "5 Test", "{4AD3BAEB-AE51-4E99-ABC1-3F170BAABC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQbit.ExternalBank.Common.Models", "OpenQbit.ExternalBank.Common.Models\OpenQbit.ExternalBank.Common.Models.csproj", "{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC} = {5447B3A6-8078-429C-B7C4-97466699BF89}
+	EndGlobalSection
+EndGlobal
