@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenQbit.ExternalBank.Common.Models
+namespace OpenQbit.ExternalBank.DAL
 {
     public class Class1
     {

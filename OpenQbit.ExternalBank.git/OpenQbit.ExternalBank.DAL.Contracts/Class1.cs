@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenQbit.ExternalBank.Common.Models
+namespace OpenQbit.ExternalBank.DAL.Contracts
 {
-    class Test
+    public class Class1
     {
     }
 }
