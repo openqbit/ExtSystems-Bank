@@ -5,6 +5,7 @@ namespace OpenQbit.ExternalBank.DAL.Migrations
     
     public partial class DBInit : DbMigration
     {
+        // Created By dinithi
         public override void Up()
         {
             CreateTable(
