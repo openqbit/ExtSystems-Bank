@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenQbit.ExternalBank.Common.Models
+namespace OpenQbit.ExternalBank.DAL.Contracts
 {
-    class Account
+    public class Class1
     {
         public int Id { get; set; }
         public int BankAccNo { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OpenQbit.ExternalBank.Common.Models
 {
-    class TransactionType
+    public class TransactionType
     {
         public int Id { get; set; }
         public string Type { get; set; }
