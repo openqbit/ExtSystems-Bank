@@ -11,7 +11,13 @@ namespace OpenQbit.ExternalBank.Common.Models
         public int Id { get; set; }
         public int BankAccNo { get; set; }
         public int CurrentBalance { get; set; }
-        public int AccountTypesId { get; set; }
-        public virtual AccountTypes AccountTypes { get; set; }
+        public int AccountTypesId { get; set;}
+        public virtual AccountTypes AccountTypes { get; set;}
+
+        
+
+
+
+
     }
 }

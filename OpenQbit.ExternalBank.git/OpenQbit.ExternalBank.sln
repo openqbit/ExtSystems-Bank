@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQbit.ExternalBank.DAL",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQbit.ExternalBank.DAL.Contracts", "OpenQbit.ExternalBank.DAL.Contracts\OpenQbit.ExternalBank.DAL.Contracts.csproj", "{E8BC0253-DDBF-49C5-8037-C61425B736F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQbit.ExternalBank.Presentation.Web", "OpenQbit.ExternalBank.Presentation.Web\OpenQbit.ExternalBank.Presentation.Web.csproj", "{DF601A61-2C15-45E9-ABC9-F8269D49F07C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E8BC0253-DDBF-49C5-8037-C61425B736F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8BC0253-DDBF-49C5-8037-C61425B736F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8BC0253-DDBF-49C5-8037-C61425B736F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF601A61-2C15-45E9-ABC9-F8269D49F07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF601A61-2C15-45E9-ABC9-F8269D49F07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF601A61-2C15-45E9-ABC9-F8269D49F07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF601A61-2C15-45E9-ABC9-F8269D49F07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,5 +53,6 @@ Global
 		{E54DBE8D-54F0-41DF-BAD2-809EF985BAEC} = {5447B3A6-8078-429C-B7C4-97466699BF89}
 		{05AF8800-1847-45F9-B8CE-4D4C6CAAD020} = {6F8DC2B6-7774-4CBB-BE7F-8F9DF2957437}
 		{E8BC0253-DDBF-49C5-8037-C61425B736F8} = {6F8DC2B6-7774-4CBB-BE7F-8F9DF2957437}
+		{DF601A61-2C15-45E9-ABC9-F8269D49F07C} = {BD80612B-7C53-4F2F-961B-BA93FFD24B82}
 	EndGlobalSection
 EndGlobal

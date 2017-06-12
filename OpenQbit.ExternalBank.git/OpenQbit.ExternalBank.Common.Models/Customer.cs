@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OpenQbit.ExternalBank.Common.Models
 {
-    class Customer : Person
+    public class Customer : Person
     {
         //public string Address
         //{
