@@ -15,10 +15,75 @@
 .dl-horizontal dt {
     white-space: normal;
 }
+#top{
+    height:200px;
+    width:99%;
+    top:50%;
+    background-color:sandybrown;
+}
 
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
+#customer{
+    height:200px;
+    width:200px;
+    top:50%;
+    background-color:gray;
+}
+
+#customer:hover{
+    color:white;
+}
+
+#employee{
+    height:200px;
+    width:200px;
+    top:50%;
+    background-color:gray;
+}
+
+#employee:hover{
+    color:white;
+}
+
+#account{
+    height:200px;
+    width:200px;
+    top:50%;
+    background-color:gray;
+}
+
+#account:hover{
+    color:white;
+}
+
+#person{
+    height:200px;
+    width:200px;
+    top:50%;
+    background-color:gray;
+}
+
+#person:hover{
+    color:white;
+}
+
+#transaction{
+    height:200px;
+    width:200px;
+    top:50%;
+    background-color:gray;
+}
+
+#transaction:hover{
+    color:white;
+}
+
+#blank{
+    height:50px;
+    width:40px;
+    top:50%;
+    background-color:white;
+}
+
+#link{
+    font-size:9px;
 }
